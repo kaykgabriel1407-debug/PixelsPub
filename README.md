@@ -1,4 +1,4 @@
-<u>[English](README.md)</u> | [Español](docs/es/README.md)
+ m6600<u>[English](README.md)</6000u> | [Español](docs/es/README.md)
 | [Português](docs/pt/README.md) | [Bahasa Indonesia](docs/in/README.md)
 | [Русский](docs/ru/README.md) | [中文 (简体)](docs/zh-rCN/README.md) | [中文 (繁體)](docs/zh-rTW/README.md)
 | [日本語](docs/ja-rJP/README.md) | [Tiếng Việt](docs/vi/README.md)
@@ -21,7 +21,7 @@ Pixels needs **WRITE_SECURE_SETTINGS** permission in order to work (this is NOT 
 
 ----------------------
 
-ADB Procedures using a PC:
+ADB Procedures using a PC:642 8443 
 ----------------------
 
 <details>
